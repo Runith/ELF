@@ -5,12 +5,12 @@
       <![CDATA[CreateCustomer]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-07-27T11:51:10Z" name="Suite" finished-at="2020-07-27T11:51:10Z" duration-ms="32">
+  <suite started-at="2020-07-28T11:44:23Z" name="Suite" finished-at="2020-07-28T11:44:23Z" duration-ms="53">
     <groups>
     </groups>
-    <test started-at="2020-07-27T11:51:10Z" name="Test" finished-at="2020-07-27T11:51:10Z" duration-ms="32">
+    <test started-at="2020-07-28T11:44:23Z" name="Test" finished-at="2020-07-28T11:44:23Z" duration-ms="53">
       <class name="com.elf.testscripts.CreateCustomer">
-        <test-method signature="testCreateCustomer()[pri:0, instance:com.elf.testscripts.CreateCustomer@27ff5d15]" started-at="2020-07-27T11:51:10Z" name="testCreateCustomer" finished-at="2020-07-27T11:51:10Z" duration-ms="7" status="PASS">
+        <test-method signature="testCreateCustomer()[pri:0, instance:com.elf.testscripts.CreateCustomer@27ff5d15]" started-at="2020-07-28T11:44:23Z" name="testCreateCustomer" finished-at="2020-07-28T11:44:23Z" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[CreateCustomer]]>
